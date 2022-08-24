@@ -43,3 +43,5 @@ Value
 
 
 There are simple REST endpoints implemented for deck operations to `shuffle`, `deal`, and start with a `new` deck using a parameter `decks` for the amount of decks to be used.
+
+Once complete, you can submit a working fork.
