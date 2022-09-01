@@ -6,6 +6,9 @@ import org.springframework.data.cassandra.core.mapping.Table;
 import java.io.Serializable;
 import java.util.UUID;
 
+
+//COMBINED DECK AND CARD MODELS
+
 @Table
 public class CardDeck implements Serializable {
 
